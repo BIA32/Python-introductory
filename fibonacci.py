@@ -9,4 +9,4 @@ def fibonacci(n):
         print(a+b)
         a, b = b, a + b
 
-if 
+print(fibonacci(9))
